@@ -10,12 +10,12 @@ Assumptions:
 -> Logistic regression requires quite large sample sizes.
 
 Our prediction will be based on the customer’s 
-1> job 
-2> marital status
-3> whether he/she has credit in default
-4> whether he/she has a housing loan
-5> whether he/she has a personal loan 
-6> outcome of the previous marketing campaigns. 
+1> job <br/>
+2> marital status<br/>
+3> whether he/she has credit in default<br/>
+4> whether he/she has a housing loan<br/>
+5> whether he/she has a personal loan <br/>
+6> outcome of the previous marketing campaigns.
 
 
 Output:
