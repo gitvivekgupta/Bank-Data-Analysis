@@ -12,28 +12,27 @@ Assumptions:
 Our prediction will be based on the customer’s <br/>
 1> job <br/>
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
-
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/job.png)
 
 2> marital status<br/>
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/marital.png)
 
 3> whether he/she has credit in default<br/>
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/default.png)
 
 4> whether he/she has a housing loan<br/>
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/housing.png)
 
 5> whether he/she has a personal loan <br/>
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/loan.png)
 
 6> outcome of the previous marketing campaigns.
 
-![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/poutcome.png)
 
 
 
