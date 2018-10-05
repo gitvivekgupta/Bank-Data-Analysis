@@ -38,4 +38,4 @@ Our prediction will be based on the customer’s <br/>
 
 Output:
 
-![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/Screen%20Shot%202018-10-03%20at%209.18.26%20PM.png)
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/out.png)
