@@ -9,13 +9,32 @@ Assumptions:
 -> The independent variables are linearly related to the log odds.
 -> Logistic regression requires quite large sample sizes.
 
-Our prediction will be based on the customer’s 
+Our prediction will be based on the customer’s <br/>
 1> job <br/>
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
+
 2> marital status<br/>
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
 3> whether he/she has credit in default<br/>
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
 4> whether he/she has a housing loan<br/>
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
 5> whether he/she has a personal loan <br/>
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
 6> outcome of the previous marketing campaigns.
+
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
 
 
 Output:
