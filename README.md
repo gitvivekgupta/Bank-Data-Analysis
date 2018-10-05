@@ -20,4 +20,4 @@ Our prediction will be based on the customer’s
 
 Output:
 
-Pls find the image here: https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/Screen%20Shot%202018-10-03%20at%209.18.26%20PM.png
+![alt text](https://github.com/gitvivekgupta/Bank-Data-Analysis/blob/master/Screen%20Shot%202018-10-03%20at%209.18.26%20PM.png)
